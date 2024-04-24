@@ -1,0 +1,15 @@
+C:\Dev\C-Sharp_Course\01_POO-Clases-Instancias\bin\Debug\net8.0\01_POO-Clases-Instancias.exe
+C:\Dev\C-Sharp_Course\01_POO-Clases-Instancias\bin\Debug\net8.0\01_POO-Clases-Instancias.deps.json
+C:\Dev\C-Sharp_Course\01_POO-Clases-Instancias\bin\Debug\net8.0\01_POO-Clases-Instancias.runtimeconfig.json
+C:\Dev\C-Sharp_Course\01_POO-Clases-Instancias\bin\Debug\net8.0\01_POO-Clases-Instancias.dll
+C:\Dev\C-Sharp_Course\01_POO-Clases-Instancias\bin\Debug\net8.0\01_POO-Clases-Instancias.pdb
+C:\Dev\C-Sharp_Course\01_POO-Clases-Instancias\obj\Debug\net8.0\01_POO-Clases-Instancias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C-Sharp_Course\01_POO-Clases-Instancias\obj\Debug\net8.0\01_POO-Clases-Instancias.AssemblyInfoInputs.cache
+C:\Dev\C-Sharp_Course\01_POO-Clases-Instancias\obj\Debug\net8.0\01_POO-Clases-Instancias.AssemblyInfo.cs
+C:\Dev\C-Sharp_Course\01_POO-Clases-Instancias\obj\Debug\net8.0\01_POO-Clases-Instancias.csproj.CoreCompileInputs.cache
+C:\Dev\C-Sharp_Course\01_POO-Clases-Instancias\obj\Debug\net8.0\01_POO-Clases-Instancias.sourcelink.json
+C:\Dev\C-Sharp_Course\01_POO-Clases-Instancias\obj\Debug\net8.0\01_POO-Clases-Instancias.dll
+C:\Dev\C-Sharp_Course\01_POO-Clases-Instancias\obj\Debug\net8.0\refint\01_POO-Clases-Instancias.dll
+C:\Dev\C-Sharp_Course\01_POO-Clases-Instancias\obj\Debug\net8.0\01_POO-Clases-Instancias.pdb
+C:\Dev\C-Sharp_Course\01_POO-Clases-Instancias\obj\Debug\net8.0\01_POO-Clases-Instancias.genruntimeconfig.cache
+C:\Dev\C-Sharp_Course\01_POO-Clases-Instancias\obj\Debug\net8.0\ref\01_POO-Clases-Instancias.dll
