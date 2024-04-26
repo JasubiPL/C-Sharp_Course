@@ -1,0 +1,15 @@
+C:\Dev\C-Sharp_Course\02_POO-Clases-Constructores\bin\Debug\net8.0\02_POO-Clases-Constructores.exe
+C:\Dev\C-Sharp_Course\02_POO-Clases-Constructores\bin\Debug\net8.0\02_POO-Clases-Constructores.deps.json
+C:\Dev\C-Sharp_Course\02_POO-Clases-Constructores\bin\Debug\net8.0\02_POO-Clases-Constructores.runtimeconfig.json
+C:\Dev\C-Sharp_Course\02_POO-Clases-Constructores\bin\Debug\net8.0\02_POO-Clases-Constructores.dll
+C:\Dev\C-Sharp_Course\02_POO-Clases-Constructores\bin\Debug\net8.0\02_POO-Clases-Constructores.pdb
+C:\Dev\C-Sharp_Course\02_POO-Clases-Constructores\obj\Debug\net8.0\02_POO-Clases-Constructores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C-Sharp_Course\02_POO-Clases-Constructores\obj\Debug\net8.0\02_POO-Clases-Constructores.AssemblyInfoInputs.cache
+C:\Dev\C-Sharp_Course\02_POO-Clases-Constructores\obj\Debug\net8.0\02_POO-Clases-Constructores.AssemblyInfo.cs
+C:\Dev\C-Sharp_Course\02_POO-Clases-Constructores\obj\Debug\net8.0\02_POO-Clases-Constructores.csproj.CoreCompileInputs.cache
+C:\Dev\C-Sharp_Course\02_POO-Clases-Constructores\obj\Debug\net8.0\02_POO-Clases-Constructores.sourcelink.json
+C:\Dev\C-Sharp_Course\02_POO-Clases-Constructores\obj\Debug\net8.0\02_POO-Clases-Constructores.dll
+C:\Dev\C-Sharp_Course\02_POO-Clases-Constructores\obj\Debug\net8.0\refint\02_POO-Clases-Constructores.dll
+C:\Dev\C-Sharp_Course\02_POO-Clases-Constructores\obj\Debug\net8.0\02_POO-Clases-Constructores.pdb
+C:\Dev\C-Sharp_Course\02_POO-Clases-Constructores\obj\Debug\net8.0\02_POO-Clases-Constructores.genruntimeconfig.cache
+C:\Dev\C-Sharp_Course\02_POO-Clases-Constructores\obj\Debug\net8.0\ref\02_POO-Clases-Constructores.dll
